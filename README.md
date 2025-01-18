@@ -54,4 +54,13 @@ We're building the future of astrological crypto trading and beyond. If you're a
 - [ ] Community pattern sharing platform
 
 ---
+
+## 📡 Stay Connected  
+
+Stay updated and engage with us:   
+- [Twitter](https://x.com/Asteri_AI)  
+- [Telegram](-)
+
+---
+
 Built with ❤️ by a16z Teams
