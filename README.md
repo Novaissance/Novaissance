@@ -21,7 +21,7 @@ Key features:
 - Extensible signal generation system for trading strategies
 - Advanced pattern matching using machine learning
 
-Explore the project in its [repository](#).
+Explore the project in its [repository](https://github.com/Novaissance/Astro-crypto-analyzer).
 
 ### CelestialSignals - Trading Signal Generation Framework
 
