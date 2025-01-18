@@ -34,7 +34,7 @@ Key features:
 - JSON schema support for signal configuration
 - Extensible backtesting framework
 
-Explore CelestialSignals in its [repository](#).
+Explore CelestialSignals in its [repository](https://github.com/Novaissance/Celestial_Signals).
 
 ## 💫 Why Astrology and Crypto?
 
