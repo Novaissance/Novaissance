@@ -62,7 +62,7 @@ We're building the future of astrological crypto trading and beyond. If you're a
 
 - [x] Enhanced planetary aspect calculations
 - [x] Machine learning model for pattern recognition
-- [ ] Real-time trading signal dashboard *70%*
+- [ ] Real-time trading signal dashboard (*70%*)
 - [ ] Mobile app for notifications
 - [ ] Community pattern sharing platform
 
