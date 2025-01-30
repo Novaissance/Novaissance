@@ -63,4 +63,4 @@ Stay updated and engage with us:
 
 ---
 
-Built with ❤️ by a16z Teams
+Built with ❤️ by a16z Interns
