@@ -21,7 +21,7 @@ Key Feature :
 - Dynamic Position Sizing Calculator
 - Multi-dimensional Cycle Analysis Framework
 
-Explore the project in its repository *On Progress 🛠️*.
+Explore the project in its [repository](https://github.com/Novaissance/Astrological-Market-Intelligence-System-).
 
 ### Astro-Crypto Analyzer - Advanced Market Analysis Framework
 
@@ -34,7 +34,7 @@ Key features:
 - Extensible signal generation system for trading strategies
 - Advanced pattern matching using machine learning
 
-Explore the project in its repository *On Progress 🛠️*.
+Explore the project in its [repository](https://github.com/Novaissance/Astro-crypto-analyzer).
 
 ### CelestialSignals - Trading Signal Generation Framework
 
@@ -47,7 +47,7 @@ Key features:
 - JSON schema support for signal configuration
 - Extensible backtesting framework
 
-Explore CelestialSignals in its repository *On Progress 🛠️*.
+Explore CelestialSignals in its [repository](https://github.com/Novaissance/Celestial_Signals).
 
 ## 💫 Why Astrology and Crypto?
 
@@ -63,8 +63,8 @@ We're building the future of astrological crypto trading and beyond. If you're a
 - [x] Enhanced planetary aspect calculations
 - [x] Machine learning model for pattern recognition
 - [ ] Real-time trading signal dashboard (*70%🛠️*)
-- [ ] Mobile app for notifications
-- [ ] Community pattern sharing platform
+- [ ] Mobile app for notifications (*23%🛠️*)
+- [ ] Community pattern sharing platform (*43%🛠️*)
 
 ---
 
@@ -72,7 +72,7 @@ We're building the future of astrological crypto trading and beyond. If you're a
 
 Stay updated and engage with us:   
 - [Twitter](https://x.com/Asteri_AI)  
-- [Telegram](-)
+- [Discord](-)
 
 ---
 
