@@ -72,7 +72,7 @@ We're building the future of astrological crypto trading and beyond. If you're a
 
 Stay updated and engage with us:   
 - [Twitter](https://x.com/Asteri_AI)  
-- [Discord](-)
+- [Discord](https://discord.gg/SjDEHZpw)
 
 ---
 
